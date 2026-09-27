@@ -1,7 +1,0 @@
-005334f Rama olvidada
-d9611a9 mergeo2 con RamaDos
-c8a7302 RamaDos segundo commit
-55f0dad RamaDos Primmer commit
-ccc2491 RamaDos Primmer commit
-eb5d22c Rama main segundo commit
-ddb2084 Rama main commit
